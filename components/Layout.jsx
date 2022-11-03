@@ -6,7 +6,7 @@ import Prizes from "./prizes/Prizes"
 
 const Layout = ({children}) => {
   return (
-    <div className="bg-black">
+    <div className="bg-[#1E1E1E]">
         <Navbar />
         <Landing />
         <Faq />
