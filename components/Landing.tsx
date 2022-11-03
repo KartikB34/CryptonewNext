@@ -1,4 +1,3 @@
-import React from 'react'
 import laptop from "../assets/laptop.png"
 import phone from "../assets/phone.png"
 import bulb from "../assets/bulb.png"
